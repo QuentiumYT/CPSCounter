@@ -11,11 +11,11 @@
 
 >#### Calculate your number of CPS (clicks per second) max in a given time that you enter.
 <br>
-![](https://quentium.fr/programs/Github/CPSCounter.gif)
+<p align="center"><img src="https://quentium.fr/programs/Github/CPSCounter.gif"></p>
 
 ## 📥 Installation
 
-- Download the source code [here](https://github.com/QuentiumYT/CPSCounter/archive/master.zip) and run `CPSCounter.pyw` on your computer (you will need socket, platform, psutil, wmi and ctypes modules)
+- Download the source code [here](https://github.com/QuentiumYT/CPSCounter/archive/master.zip) and run `CPSCounter.pyw` on your computer (no specific module required)
 - Download the 64bits compiled executable [here](https://quentium.fr/download.php?file=CPSCounter.exe)!
 - Download the 32bits compiled executable [here](https://quentium.fr/download.php?file=CPSCounter-32.exe)!
 
